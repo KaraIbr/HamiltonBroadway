@@ -1,4 +1,4 @@
-🖋️ Hamilton Data-Vis: The Narrative in Numbers
+Hamilton Data-Vis: The Narrative in Numbers
 
 "Who lives, who dies, who tells your story?" — Now, the data does.
 
@@ -10,7 +10,7 @@ Hamilton Data-Vis is an open-source, friction-free interactive dashboard that tr
 
 Built with a strict Nordic design philosophy (minimalist, high-contrast, clean typography), this project strips away the noise to reveal the underlying architecture of the masterpiece.
 
-⚡ Why This Exists (The ROI)
+ Why This Exists 
 
 Deep Comprehension: Makes the hyper-complex metric and emotional shifts of the musical instantly digestible.
 
@@ -18,7 +18,7 @@ Frictionless Open Source: Zero complex backend servers. No SQL databases. It run
 
 Fork & Play: Anyone can fork this repo, drop a new .json data file into the /public folder, and watch the narrative rebuild itself.
 
-🛠️ Tech Stack (The Engine)
+ Tech Stack (The Engine)
 
 Core: Next.js (React) - For lightning-fast static site generation.
 
@@ -28,7 +28,7 @@ Visualization: Recharts / D3.js - Beautiful, declarative charts.
 
 Deployment: Ready for Vercel or GitHub Pages (Push to deploy).
 
-🚀 Quick Start: Run the Revolution
+ Quick Start: Run the Revolution
 
 You don't need to be Alexander Hamilton to set this up.
 
